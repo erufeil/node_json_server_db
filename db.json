@@ -1,0 +1,79 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergie",
+      "apellido": "Code",
+      "materias": [
+        {
+          "nombre": "NodeJS"
+        },
+        {
+          "nombre": "JavaScript"
+        },
+        {
+          "nombre": "Python"
+        }
+      ],
+      "id": "eca4"
+    },
+    {
+      "id": "3b60",
+      "nombre": "Devora",
+      "apellido": "DoraDP",
+      "materias": [
+        {
+          "nombre": "Quimica"
+        },
+        {
+          "nombre": "Biologia"
+        },
+        {
+          "nombre": "Matematicas"
+        },
+        {
+          "nombre": "Ciencias Ocultas"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Ana",
+      "apellido": "Lopez",
+      "promedio": 8.2,
+      "id": "45ae"
+    },
+    {
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "promedio": 7.8,
+      "id": "364c"
+    },
+    {
+      "id": "df5d",
+      "nombre": "Pamela",
+      "apellido": "Anderson",
+      "promedio": 9.9
+    }
+  ],
+  "Cursos": [
+    {
+      "nombre": "NodeJS",
+      "Duracion": 6,
+      "dificultad": "alta",
+      "id": "d804"
+    },
+    {
+      "nombre": "JavaScript",
+      "Duracion": 8,
+      "dificultad": "baja",
+      "id": "8a28"
+    },
+    {
+      "nombre": "python",
+      "Duracion": 9,
+      "dificultad": "media",
+      "id": "0cb6"
+    }
+  ]
+}

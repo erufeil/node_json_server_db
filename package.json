@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-nodejs-server",
+  "version": "0.0.1",
+  "description": "blablabla",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "erf",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
